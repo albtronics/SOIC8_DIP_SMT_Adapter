@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Breadboard_Adapter
+#
+DEF Breadboard_Adapter U 0 40 Y Y 1 F N
+F0 "U" -350 -50 50 H V C CNN
+F1 "Breadboard_Adapter" 300 -50 50 H V C CNN
+F2 "" -350 -50 50 H I C CNN
+F3 "" -350 -50 50 H I C CNN
+F4 "https://albtronics.wordpress.com/" 50 -950 50 H V C CNN "Website"
+DRAW
+S -400 -150 400 -850 0 1 0 N
+X PIN1 1 -500 -300 100 R 50 50 1 1 O
+X PIN2 2 -500 -450 100 R 50 50 1 1 O
+X PIN3 3 -500 -600 100 R 50 50 1 1 O
+X PIN4 4 -500 -750 100 R 50 50 1 1 O
+X PIN5 5 500 -750 100 L 50 50 1 1 O
+X PIN6 6 500 -600 100 L 50 50 1 1 O
+X PIN7 7 500 -450 100 L 50 50 1 1 O
+X PIN8 8 500 -300 100 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+#End Library
